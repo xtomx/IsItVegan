@@ -14,6 +14,8 @@ public class Food {
 		setType(type);
 		setBarcode(barcode);
 		setVegan(vegan);
+		int i;
+		
 
 	}
 
